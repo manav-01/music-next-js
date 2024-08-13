@@ -80,8 +80,7 @@ function Footer() {
       </div>
 
       <p className="text-center text-xs pt-8">
-        <hr className="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700"></hr>©
-        2024 Music School. All rights reserved.
+        © 2024 Music School. All rights reserved.
       </p>
     </footer>
   );
